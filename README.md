@@ -7,7 +7,7 @@ Skills:
 - JAVASCRIPT
 
 
-Who I am?
+Who I am?<br/>
 Hi! My name's Piero and I'm studying to become a Full-Stack developer.
 
 CONTACT:<br/>
