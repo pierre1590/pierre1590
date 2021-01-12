@@ -10,6 +10,6 @@ Skills:
 Who I am?
 Hi! My name's Piero and I'm studying to become a Full-Stack developer.
 
-CONTACT:
-Web: http//www.piero-sabino.it/
+CONTACT:<br/>
+Web: http//www.piero-sabino.it/<br/>
 <img src="/img/instagram.svg" width="60px" height="30px">:  
