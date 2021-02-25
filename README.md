@@ -1,8 +1,8 @@
 <img src="https://i.ibb.co/BZP3bHk/Piero-Sabino.png" alt="Piero-Sabino" width="200px" height="220px" alig >
-<h1 text-align="center" font-size="60px">Piero Sabino</h1>
+<h1  font-size="60px">Piero Sabino</h1>
 
-<p text-align="center">Who I am?</p><br/>
-<p text-align="center">Hi! My name's Piero and I'm studying to become a Full-Stack developer.</p>
+<p >Who I am?</p>
+<p >Hi! My name's Piero and I'm studying to become a Full-Stack developer.</p>
 
 Skills:
 - HTML
