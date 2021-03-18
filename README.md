@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px" border-radius="50%" >
+<img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px" style="border-radius:50%" >
 <h1  font-size="75px">Piero Sabino</h1>
 
 <p >Who I am?</p>
