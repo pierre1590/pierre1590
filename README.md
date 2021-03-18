@@ -1,5 +1,5 @@
-<img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px"/>
-<h1 style="text-align:center"> Piero Sabino</h1>
+<img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px" style="border-radius=50%">
+<h1 style="text-align=center"> Piero Sabino</h1>
 <hr/>
  <h2> Who I am?</h2>
 <p >Hi! My name's Piero and I'm studying to become a Full-Stack developer.</p>
