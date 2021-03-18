@@ -1,7 +1,7 @@
-<img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px" style="border-radius:50%" >
-# Piero Sabino
+<img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px"/>
+#Piero Sabino
 
-## Who I am?
+ ##Who I am?
 <p >Hi! My name's Piero and I'm studying to become a Full-Stack developer.</p>
 
 Skills:
