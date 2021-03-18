@@ -14,5 +14,5 @@ Skills:
 
 
 <h2>CONTACT</h2><br/>
-<img src="/img/web-search-engine.svg" width="60px" height="25px">  https://www.piero-sabino.it/<br/>
-<img src="/img/instagram.svg" width="60px" height="25px"><a href="https://www.instagram.com/p13rr390/">p13rr390</a>   <br/>
+<img src="/img/web-search-engine.svg" width="60px" height="25px"> https://www.piero-sabino.it/
+<img src="/img/instagram.svg" width="60px" height="25px"><a href="https://www.instagram.com/p13rr390/">p13rr390</a> 
