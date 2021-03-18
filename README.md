@@ -2,7 +2,9 @@
 <h1> Piero Sabino</h1>
 
  <h2> Who I am?</h2>
-<p >Hi! My name's Piero and I'm studying to become a Full-Stack developer.</p>
+<p >BIO<br/>
+Hi, my name is Piero, I have always been passionate about IT and in recent years I have decided to enroll online courses such as Start2impact to become a Full-Stack developer.
+</p>
 
 Skills:
 - HTML
@@ -11,6 +13,6 @@ Skills:
 
 
 
-CONTACT:<br/>
+<h2>CONTACT</h2>
 <img src="/img/web-search-engine.svg" width="60px" height="25px">  https://www.piero-sabino.it/<br/>
 <img src="/img/instagram.svg" width="60px" height="25px"><a href="https://www.instagram.com/p13rr390/">p13rr390</a>   <br/>
