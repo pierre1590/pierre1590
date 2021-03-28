@@ -3,13 +3,14 @@
 
  <h2> Who I am?</h2>
 <p >BIO<br/>
-Hi, my name is Piero, I have always been passionate about IT and in recent years I have decided to enroll online courses such as Start2impact to become a Full-Stack developer.
+Hi, my name's Piero,I live in Puglia, Italy and I have always been passionate about ICT and in recent years I have decided to enroll online courses such as Start2impact to become a Full-Stack developer.
 </p>
 
 Skills:
-- HTML
-- CSS 
-- JAVASCRIPT
+- HTML        :    Completed;
+- CSS         :    Completed;
+- JAVASCRIPT  :    Completed;
+- PHP & MySQL :    In progress....
 
 
 
