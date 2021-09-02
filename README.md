@@ -10,13 +10,14 @@ Skills:
 - HTML        :    Completed;
 - CSS         :    Completed;
 - JAVASCRIPT  :    Completed;
-- PHP & MySQL :    In progress....
+- PHP & MySQL :    Completed;
+- Node.js     :    In progress
 
 
 
 <h2>CONTACT</h2>
 <p>
     <img src="/img/web-search-engine.svg" width="60px" height="25px"> https://www.piero-sabino.it/
-    <img src="/img/instagram.svg" width="60px" height="25px"><a href="https://www.instagram.com/p13rr390/">p13rr390</a> 
+    <img src="/img/instagram.svg" width="60px" height="25px"><a href="https://www.instagram.com/p137ru590/">p137ru590</a> 
     <img src="/img/linkedin.svg" width="70px" height="30px"><a href="https://www.linkedin.com/in/piero-sabino-15a1b671/">Piero Sabino</a> 
 </p>
