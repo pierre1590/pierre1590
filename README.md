@@ -1,8 +1,8 @@
 <img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px" style="border-radius:50%">
-<h1> PIERO SABINO</h1>
+<h1 align="center"> PIERO SABINO</h1>
 
- <h2> Who I am?</h2>
-<p >BIO<br/>
+ <h2 align="center"> Who I am?</h2>
+<p align="center">BIO<br/>
 Hi, my name's Piero, I live in Puglia, Italy; and I have always been passionate about ICT and in recent years I have decided to enroll online courses such as Start2impact to become a Full-Stack developer.
 </p>
 
