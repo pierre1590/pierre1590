@@ -18,14 +18,9 @@ Skills:
 <div align="center">
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pierre1590&show_icons=true)
-
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierre1590&show_icons=true&theme=radical)
 </div>
        
-    
-
-
-
-
 <h2>CONTACT</h2>
 <p>
     <img src="/img/web-search-engine.svg" width="60px" height="25px"> https://www.piero-sabino.it/
