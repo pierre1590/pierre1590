@@ -17,8 +17,8 @@ Skills:
 - React.js    :    In progress...
 <div align="center">
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pierre1590&show_icons=true&theme=gradient)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierre1590&langs_count=8&show_icons=true&theme=dracula)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pierre1590&show_icons=true&theme=github_dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierre1590&langs_count=8&show_icons=true&theme=github_dark)
 </div>
        
 <h2>CONTACT</h2>
