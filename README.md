@@ -15,11 +15,11 @@ Skills:
 - PHP & MySQL :    Completed;
 - Node.js     :    Completed;
 - React.js    :    In progress...
-<div text-align="center">
-    <p>
+<div align="center">
         ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pierre1590&show_icons=true)
-    </p>
 </div>
+
+
 <h2>CONTACT</h2>
 <p>
     <img src="/img/web-search-engine.svg" width="60px" height="25px"> https://www.piero-sabino.it/
