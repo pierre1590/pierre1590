@@ -1,7 +1,10 @@
 <div align="center">
     <img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px" style="border-radius:50%">
 </div>
-<h1 align="center"> PIERO SABINO</h1>
+<h1 align="center"> PIERO SABINO
+
+        https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+</h1>
 
  <h2 align="center"> Who I am?</h2>
 <p align="center">BIO<br/>
