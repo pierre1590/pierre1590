@@ -18,7 +18,7 @@ Skills:
 <div align="center">
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pierre1590&show_icons=true&theme=github_dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierre1590&langs_count=8&show_icons=true&theme=radical&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierre1590&langs_count=8&show_icons=true&layout=compact)
 </div>
        
 <h2>CONTACT</h2>
