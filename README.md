@@ -16,7 +16,10 @@ Skills:
 - Node.js     :    Completed;
 - React.js    :    In progress...
 
-        ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pierre1590&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pierre1590&show_icons=true)
+
+
+       
     
 
 
