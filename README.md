@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  align="center" alt="picture profile" width="200px" height="220px" style="border-radius:50%">
+<div align="center">
+    <img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px" style="border-radius:50%">
+</div>
 <h1 align="center"> PIERO SABINO</h1>
 
  <h2 align="center"> Who I am?</h2>
@@ -11,7 +13,8 @@ Skills:
 - CSS         :    Completed;
 - JAVASCRIPT  :    Completed;
 - PHP & MySQL :    Completed;
-- Node.js     :    In progress
+- Node.js     :    Completed;
+- React.js    :    In progress...
 
 
 
