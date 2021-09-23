@@ -15,8 +15,8 @@ Skills:
 - PHP & MySQL :    Completed;
 - Node.js     :    Completed;
 - React.js    :    In progress...
-<div align="center">
         ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pierre1590&show_icons=true)
+    
 </div>
 
 
