@@ -6,7 +6,7 @@
 </div>
 <h1 align="center"> PIERO SABINO </h1>
 
-<div align="center" style="padding:20% ">
+<div align="center" padding="10px">
 
 ![tag html](https://img.shields.io/static/v1?label=HTML5&message=html5&logo=html5&logoColor=orange&style=plastic&logoWidth=10)
             ![tag css](https://img.shields.io/static/v1?label=CSS3&message=css3&logo=css3&logoColor=blue&style=plastic&logoWidth=10)
