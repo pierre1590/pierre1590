@@ -6,7 +6,7 @@
    
 ![tag html](https://img.shields.io/badge/HTML5-html5-orange)
 ![tag css](https://img.shields.io/badge/CSS3-css3-blue)
-![tag github](https://img.shields.io/badge/?label=github&logo=github&logoColor=black)
+![tag github](https://img.shields.io/static/v1?label=GITHUB&style=plastic&logo=github)
 
 
  <h2 align="center"> Who I am?</h2>
