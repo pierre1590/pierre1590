@@ -3,6 +3,8 @@
 </div>
 <h1 align="center"> PIERO SABINO </h1>
 
+![Twitter URL](https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FSabinoPiero)
+
  <h2 align="center"> Who I am?</h2>
 <p align="center">BIO<br/>
 Hi, my name's Piero, I live in Puglia, Italy; and I have always been passionate about ICT and in recent years <br/> I have decided to enroll online courses such as <a href="https://www.start2impact.it/">start2impact</a> to become a Full-Stack developer.
