@@ -8,7 +8,8 @@
 ![tag css](https://img.shields.io/static/v1?label=CSS3&message=css3&logo=css3&logoColor=blue&style=plastic)
 ![tag github](https://img.shields.io/static/v1?label=GITHUB&message=github&logo=github&logoColor=black&style=plastic)
 ![tag javascript](https://img.shields.io/static/v1?label=JS&message=javascript&logo=javascript&logoColor=yellow&style=plastic)
-![tag php](https://img.shields.io/static/v1?label=PHP&message=php&logo=php&&style=plastic)
+![tag php](https://img.shields.io/static/v1?label=PHP&message=php&logo=php&style=plastic)
+![tag mysql](https://img.shields.io/static/v1?label=MySQL&message=mysql&logo=mysql&style=plastic)
 
  <h2 align="center"> Who I am?</h2>
 <p align="center">BIO<br/>
