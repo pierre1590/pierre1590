@@ -13,8 +13,7 @@
             ![tag mongodb](https://img.shields.io/static/v1?label=MONGODB&message=mongodb&logo=mongodb&logoColor=brightgreen&style=plastic&logoWidth=20)
             ![tag node.js](https://img.shields.io/static/v1?label=NODE.JS&message=node.js&logo=node.js&logoColor=success&style=plastic&logoWidth=20)
             ![tag react](https://img.shields.io/static/v1?label=REACT.JS&message=react.js&logo=react&logoColor=blue&style=plastic&logoWidth=20)
-            ![tag react native](https://img.shields.io/static/v1?label=REACT NATIVE&message=react native&logo=reactnative&logoColor=blue&style=plastic&logoWidth=20)
-           
+            ![tag ios](https://img.shields.io/static/v1?label=iOS&message=ios&logo=ios&logoColor=blue&style=plastic&logoWidth=20)
            
 
 </div>
