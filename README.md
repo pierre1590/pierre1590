@@ -12,8 +12,8 @@
             ![tag mysql](https://img.shields.io/static/v1?label=MySQL&message=mysql&logo=mysql&style=plastic&logoWidth=20)
             ![tag mongodb](https://img.shields.io/static/v1?label=MONGODB&message=mongodb&logo=mongodb&logoColor=brightgreen&style=plastic&logoWidth=20)
             ![tag node.js](https://img.shields.io/static/v1?label=NODE.JS&message=node.js&logo=node.js&logoColor=success&style=plastic&logoWidth=20)
-            ![tag react](https://img.shields.io/static/v1?label=REACT&message=react&logo=react&logoColor=blue&style=plastic&logoWidth=20)
-            ![tag angular](https://img.shields.io/static/v1?label=ANGULAR&message=angular&logo=angular&logoColor=red&style=plastic&logoWidth=20)
+            ![tag react](https://img.shields.io/static/v1?label=REACT.JS&message=react.js&logo=react.js&logoColor=blue&style=plastic&logoWidth=20)
+           
 
 </div>
 
