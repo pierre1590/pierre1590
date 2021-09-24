@@ -4,7 +4,7 @@
 <h1 align="center"> PIERO SABINO </h1>
 
    
-![tag html](https://img.shields.io/badge/HTML5-html5-orange)
+![tag html](https://img.shields.io/badge/HTML5-html5-orange)![tag css](https://img.shields.io/badge/CSS£-css3-blue)
 
  <h2 align="center"> Who I am?</h2>
 <p align="center">BIO<br/>
