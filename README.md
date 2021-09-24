@@ -1,10 +1,11 @@
 <div align="center">
     <img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px" style="border-radius:50%">
 </div>
-<h1 align="center"> PIERO SABINO </h1>
+<h1 align="center"> PIERO SABINO 
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io%2Ftwitter%2FSabinoPiero)
-
+    ![Twitter Follow](https://img.shields.io/twitter/follow/SabinoPiero?style=plastic)
+    
+</h1>
  <h2 align="center"> Who I am?</h2>
 <p align="center">BIO<br/>
 Hi, my name's Piero, I live in Puglia, Italy; and I have always been passionate about ICT and in recent years <br/> I have decided to enroll online courses such as <a href="https://www.start2impact.it/">start2impact</a> to become a Full-Stack developer.
