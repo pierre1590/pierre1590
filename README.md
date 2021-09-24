@@ -4,7 +4,7 @@
 <h1 align="center"> PIERO SABINO </h1>
 
    
-![tag html](https://img.shields.io/static/v1?label=HTML5&message=html5&logo=html5&logoColor=orange&style=plastic&logoWidth=20&labelWidth=50)
+![tag html](https://img.shields.io/static/v1?label=HTML5&message=html5&logo=html5&logoColor=orange&style=plastic&logoWidth=20)
 ![tag css](https://img.shields.io/static/v1?label=CSS3&message=css3&logo=css3&logoColor=blue&style=plastic&logoWidth=20)
 ![tag github](https://img.shields.io/static/v1?label=GITHUB&message=github&logo=github&logoColor=black&style=plastic&logoWidth=20)
 ![tag javascript](https://img.shields.io/static/v1?label=JS&message=javascript&logo=javascript&logoColor=yellow&style=plastic&logoWidth=20)
