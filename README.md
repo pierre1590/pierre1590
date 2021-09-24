@@ -8,7 +8,7 @@
 ![tag css](https://img.shields.io/static/v1?label=CSS3&message=css3&logo=css3&logoColor=blue&style=plastic)
 ![tag github](https://img.shields.io/static/v1?label=GITHUB&message=github&logo=github&logoColor=black&style=plastic)
 ![tag javascript](https://img.shields.io/static/v1?label=JS&message=javascript&logo=javascript&logoColor=yellow&style=plastic)
-![tag node](https://img.shields.io/static/v1?label=NODEJS&message=nodejs&logo=nodejs&logoColor=green&style=plastic)
+![tag node](https://img.shields.io/static/v1?label=NODEJS&message=nodejs&logo=nodejs&logoColor=success&style=plastic)
 
  <h2 align="center"> Who I am?</h2>
 <p align="center">BIO<br/>
