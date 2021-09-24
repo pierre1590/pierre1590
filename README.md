@@ -4,9 +4,9 @@
 <h1 align="center"> PIERO SABINO </h1>
 
    
-![tag html](https://img.shields.io/badge/HTML5-html5-orange)
-![tag css](https://img.shields.io/badge/CSS3-css3-blue)
-![tag github](https://img.shields.io/static/v1?label=GITHUB&logo=github&style=plastic)
+![tag html](https://img.shields.io/badge/HTML5-html5-orange&style=plastic)
+![tag css](https://img.shields.io/badge/CSS3-css3-blue&style=plastic)
+![tag github](https://img.shields.io/static/v1?label=GITHUB&message=github&logo=github&style=plastic)
 
 
  <h2 align="center"> Who I am?</h2>
