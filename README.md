@@ -3,7 +3,8 @@
 </div>
 <h1 align="center"> PIERO SABINO </h1>
 
-   ![Twitter Follow](https://img.shields.io/twitter/follow/SabinoPiero?style=plastic)
+   
+   ![Discord](https://img.shields.io/discord/684009642984341525?style=plastic)
 
  <h2 align="center"> Who I am?</h2>
 <p align="center">BIO<br/>
