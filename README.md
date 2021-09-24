@@ -11,7 +11,7 @@
 ![tag php](https://img.shields.io/static/v1?label=PHP&message=php&logo=php&style=plastic)
 ![tag mysql](https://img.shields.io/static/v1?label=MySQL&message=mysql&logo=mysql&style=plastic)
 ![tag node.js](https://img.shields.io/static/v1?label=NODE.JS&message=node.js&logo=node.js&logoColor=success&style=plastic)
-![tag react](https://img.shields.io/static/v1?label=REACT&message=react&logo=react&logoColor=black&style=plastic)
+![tag react](https://img.shields.io/static/v1?label=REACT&message=react&logo=react&logoColor=blue&style=plastic)
  <h2 align="center"> Who I am?</h2>
 <p align="center">BIO<br/>
 Hi, my name's Piero, I live in Puglia, Italy; and I have always been passionate about ICT and in recent years <br/> I have decided to enroll online courses such as <a href="https://www.start2impact.it/">start2impact</a> to become a Full-Stack developer.
