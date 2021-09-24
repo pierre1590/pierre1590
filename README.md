@@ -13,8 +13,7 @@
             ![tag mongodb](https://img.shields.io/static/v1?label=MONGODB&message=mongodb&logo=mongodb&logoColor=brightgreen&style=plastic&logoWidth=20)
             ![tag node.js](https://img.shields.io/static/v1?label=NODE.JS&message=node.js&logo=node.js&logoColor=success&style=plastic&logoWidth=20)
             ![tag react](https://img.shields.io/static/v1?label=REACT.JS&message=react.js&logo=react&logoColor=blue&style=plastic&logoWidth=20)
-            ![tag android](https://img.shields.io/static/v1?label=Android&message=android&logo=android&logoColor=success&style=plastic&logoWidth=20)
-
+            ![tag fullstack-developer](https://img.shields.io/static/v1?label=Full-stack-developer&message=full-stack-developer&logo=fullstackct&logoColor=blue&style=plastic&logoWidth=20)
 </div>
 
  <h2 align="center"> Who I am?</h2>
