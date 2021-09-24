@@ -8,14 +8,14 @@
 
 <div align="center">
 
-![tag html](https://img.shields.io/static/v1?label=HTML5&logo=html5&logoColor=orange&style=plastic&logoWidth=10&labelColor=white)
+![tag html](https://img.shields.io/static/v1?label=HTML5&message=html5&logo=html5&logoColor=orange&style=plastic&logoWidth=10&labelColor=white)
             ![tag css](https://img.shields.io/static/v1?label=CSS3&message=css3&logo=css3&logoColor=blue&style=plastic&logoWidth=10&labelColor=white)
-            ![tag github](https://img.shields.io/static/v1?label=GITHUB&logo=github&logoColor=black&style=plastic&logoWidth=10&labelColor=white)
-            ![tag javascript](https://img.shields.io/static/v1?label=JS&logo=javascript&logoColor=yellow&style=plastic&logoWidth=10&labelColor=white)
-            ![tag php](https://img.shields.io/static/v1?label=PHP&logo=php&logoColor=blueviolet&style=plastic&logoWidth=10&labelColor=white)
-            ![tag mysql](https://img.shields.io/static/v1?label=MySQL&logo=mysql&logoColor=informational&style=plastic&logoWidth=10&labelColor=white)
-            ![tag node.js](https://img.shields.io/static/v1?label=NODE.JS&logo=node.js&logoColor=success&style=plastic&logoWidth=10&labelColor=white)
-            ![tag react](https://img.shields.io/static/v1?label=REACT.JS&logo=react&logoColor=blue&style=plastic&logoWidth=10&labelColor=white)
+            ![tag github](https://img.shields.io/static/v1?label=GITHUB&message=github&logo=github&logoColor=black&style=plastic&logoWidth=10&labelColor=white)
+            ![tag javascript](https://img.shields.io/static/v1?label=JS&message=javascript&logo=javascript&logoColor=yellow&style=plastic&logoWidth=10&labelColor=white)
+            ![tag php](https://img.shields.io/static/v1?label=PHP&message=php&logo=php&logoColor=blueviolet&style=plastic&logoWidth=10&labelColor=white)
+            ![tag mysql](https://img.shields.io/static/v1?label=MySQL&message=mysql&logo=mysql&logoColor=informational&style=plastic&logoWidth=10&labelColor=white)
+            ![tag node.js](https://img.shields.io/static/v1?label=NODE.JS&message=node.js&logo=node.js&logoColor=success&style=plastic&logoWidth=10&labelColor=white)
+            ![tag react](https://img.shields.io/static/v1?label=REACT.JS&message=react.js&logo=react&logoColor=blue&style=plastic&logoWidth=10&labelColor=white)
            
 </div>
 
