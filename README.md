@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"> PIERO SABINO </h1>
 
-![Twitter URL](https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Ftwitter.com%2FSabinoPiero)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io%2Ftwitter%2FSabinoPiero)
 
  <h2 align="center"> Who I am?</h2>
 <p align="center">BIO<br/>
