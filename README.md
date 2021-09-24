@@ -1,9 +1,10 @@
 <div align="center">
     <img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px" style="border-radius:20%">
 </div>
-<h1 align="center"> PIERO SABINO 
-
-            ![tag html](https://img.shields.io/static/v1?label=HTML5&message=html5&logo=html5&logoColor=orange&style=plastic&logoWidth=20)
+<h1 align="center"> PIERO SABINO</h1>
+<div align="center">
+            
+![tag html](https://img.shields.io/static/v1?label=HTML5&message=html5&logo=html5&logoColor=orange&style=plastic&logoWidth=20)
             ![tag css](https://img.shields.io/static/v1?label=CSS3&message=css3&logo=css3&logoColor=blue&style=plastic&logoWidth=20)
             ![tag github](https://img.shields.io/static/v1?label=GITHUB&message=github&logo=github&logoColor=black&style=plastic&logoWidth=20)
             ![tag javascript](https://img.shields.io/static/v1?label=JS&message=javascript&logo=javascript&logoColor=yellow&style=plastic&logoWidth=20)
@@ -13,7 +14,7 @@
             ![tag node.js](https://img.shields.io/static/v1?label=NODE.JS&message=node.js&logo=node.js&logoColor=success&style=plastic&logoWidth=20)
             ![tag react](https://img.shields.io/static/v1?label=REACT&message=react&logo=react&logoColor=blue&style=plastic&logoWidth=20)
 
-</h1>
+</div>
 
  <h2 align="center"> Who I am?</h2>
 <p align="center">BIO<br/>
