@@ -14,7 +14,6 @@
             ![tag javascript](https://img.shields.io/static/v1?label=JS&message=javascript&logo=javascript&logoColor=yellow&style=plastic&logoWidth=10)
             ![tag php](https://img.shields.io/static/v1?label=PHP&message=php&logo=php&logoColor=blueviolet&style=plastic&logoWidth=10&labelColor=white)
             ![tag mysql](https://img.shields.io/static/v1?label=MySQL&message=mysql&logo=mysql&logoColor=informational&style=plastic&logoWidth=10&labelColor=white)
-            ![tag mysql](https://img.shields.io/static/v1?label=MySQL&message=mysql&logo=mysql&logoColor=informational&style=plastic&logoWidth=10&labelColor=white)
              ![tag laravel](https://img.shields.io/static/v1?label=LARAVEL&message=laravel&logo=laravel&logoColor=red&style=plastic&logoWidth=10&labelColor=white)
             ![tag node.js](https://img.shields.io/static/v1?label=NODE.JS&message=node.js&logo=node.js&logoColor=success&style=plastic&logoWidth=10&labelColor=white)
             ![tag react](https://img.shields.io/static/v1?label=REACT.JS&message=react.js&logo=react&logoColor=blue&style=plastic&logoWidth=10&labelColor=white)
