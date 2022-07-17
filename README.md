@@ -42,7 +42,7 @@ Skills:
        
 <h2>CONTACT</h2>
 <p>
-    <img src="/img/web-search-engine.svg" width="60px" height="25px"> <a href='https://www.pierosabino.it/'>www.pierosabino.it</a>
+    <img src="/img/web-search-engine.svg" width="60px" height="25px"> <a href='http://www.pierosabino.it/'>www.pierosabino.it</a>
     <img src="/img/instagram.svg" width="60px" height="25px"><a href="https://www.instagram.com/p137ru590/">p137ru590</a> 
     <img src="/img/linkedin.svg" width="70px" height="30px"><a href="https://www.linkedin.com/in/pierosabino/">Piero Sabino</a> 
 </p>
