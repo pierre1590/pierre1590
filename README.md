@@ -57,7 +57,10 @@ A passionate **Full-Stack Developer** dedicated to building robust and scalable 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pierre1590&show_icons=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierre1590&langs_count=8&show_icons=true&layout=compact)
 
-### My GitHub Streak
+---
 
-[![Piero's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pierre1590&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-       
+### My Annual Contribution Activity
+
+[![Piero's GitHub Contributions](https://github-contributions-api.jogruber.de/2024/pierre1590?flat=true&theme=dark)](https://github.com/pierre1590)
+
+---
