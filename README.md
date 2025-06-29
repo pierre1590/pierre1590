@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px" style="border-radius:10%">
+    <img src="https://i.ibb.co/Qf2c7tK/IMG-0867.jpg  alt="picture profile" width="200px" height="220px" >
 </div>
 <h1 align="center"> PIERO SABINO </h1>
  <p align="center">Junior Full-Stack Developer</p>
