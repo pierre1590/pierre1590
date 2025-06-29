@@ -4,7 +4,7 @@
     <img src="https://i.ibb.co/KKnc3X6/Picture-profile-2.jpg"  alt="picture profile" width="200px" height="220px" style="border-radius:10%">
 </div>
 <h1 align="center"> PIERO SABINO </h1>
- Junior Full-Stack Developer
+ <p align="center">Junior Full-Stack Developer</p>
 
 
 
@@ -59,8 +59,3 @@ A passionate **Full-Stack Developer** dedicated to building robust and scalable 
 
 ---
 
-### My Annual Contribution Activity
-
-[![Piero's GitHub Contributions](https://github-contributions-api.jogruber.de/2024/pierre1590?flat=true&theme=dark)](https://github.com/pierre1590)
-
----
