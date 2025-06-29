@@ -56,11 +56,8 @@ A passionate **Full-Stack Developer** dedicated to building robust and scalable 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pierre1590&show_icons=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierre1590&langs_count=8&show_icons=true&layout=compact)
-</div>
+
+### My GitHub Streak
+
+[![Piero's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pierre1590&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
        
-<h2>CONTACT</h2>
-<p>
-    <img src="/img/web-search-engine.svg" width="60px" height="25px"> <a href='http://www.pierosabino.it/'>www.pierosabino.it</a>
-    <img src="/img/instagram.svg" width="60px" height="25px"><a href="https://www.instagram.com/p137ru590/">p137ru590</a> 
-    <img src="/img/linkedin.svg" width="70px" height="30px"><a href="https://www.linkedin.com/in/pierosabino/">Piero Sabino</a> 
-</p>
